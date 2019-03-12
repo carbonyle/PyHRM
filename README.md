@@ -42,7 +42,7 @@ Do your PCR with **touch down** protocol, it greatly improves data quality, like
 
 ## Basics: HRM - High Resolution Melt Analysis
 
-[Kapa BioSystems HRM Guide](http://www.kapabiosystems.com/document/introduction-high-resolution-melt-analysis-guide/)
+[Kapa BioSystems HRM Guide](https://www.yumpu.com/en/document/read/11708647/introduction-to-high-resolution-melt-analysis-guide-kapa-biosystems)
 
 ## Other Software
 
